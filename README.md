@@ -6,7 +6,7 @@ The simple and fast API to get live rate data of gold, silver & Rupees Data.
 
 This API is only for educational purpose only. Use this api at your own risk.
 
-API Endpoint : https://gold-api-live.herokuapp.com/
+API Endpoint : https://gold-api-live.herokuapp.com
 
 ## API KEY
 To reduce the unwanted usability we have opted out the option to put API key.
